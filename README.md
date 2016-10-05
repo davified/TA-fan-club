@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* (This is a simulation exercise for a pull request)
+
 * ...
